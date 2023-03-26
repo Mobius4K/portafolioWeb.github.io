@@ -1,0 +1,83 @@
+.card1 {
+  border-radius: 10px;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  margin: 1rem 0rem 2rem 0rem;
+  cursor: pointer;
+  background-image: url("../assets/habilitityy.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: local;
+
+}
+.card2 {
+  border-radius: 10px;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  margin: 1rem 0rem 2rem 0rem;
+  cursor: pointer;
+  background-image: url("../assets/proyect.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: local;
+  
+}
+.card3 {
+  border-radius: 20px;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  margin: 1rem 0rem 2rem 0rem;
+  cursor: pointer;
+  background-image: url("../assets/certific.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: local;
+  border: none;
+
+
+}
+
+.card1:hover{
+
+  filter: brightness(1) saturate(0.8) contrast(1.2) blur(1px);
+ transition: filter 100ms linear, transform 100ms linear;
+
+}
+.card2:hover{
+
+  filter: brightness(1) saturate(0.8) contrast(1.2) blur(1px);
+ transition: filter 100ms linear, transform 100ms linear;
+
+}
+.card3:hover{
+  filter: brightness(1) saturate(0.8) contrast(1.2) blur(1px);
+ transition: filter 100ms linear, transform 100ms linear;
+
+
+}
+
+.title{
+  background-color: #03d5dce3;
+
+  width: 90%;
+  padding: 1rem;
+  border-radius: 10px;
+  color: rgb(255, 253, 253);
+  margin: auto;
+  font-weight: 600;
+
+}
+
+.container-card a{
+
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
